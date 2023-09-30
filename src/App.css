@@ -10,10 +10,9 @@
   padding: 1.5em;
   will-change: filter;
   transition: filter 300ms;
-  border: 2px solid #FFFFFF;
+  border: 2px none;
   border-radius: 8px;
-  background-color: #FFFFFF;
-  border-radius: 8px; 
+  border-radius: 35%; 
   margin: 10px;
 }
 .logo:hover {
@@ -67,9 +66,15 @@
   font-weight: bold;
   color: #333;
 }
-body {
-  background-color: #F5F5F5;
+html {
+  background-color: #F0F0F0; 
 }
+body {
+  background: linear-gradient(to bottom, #FFFFFF 50%, rgba(255, 255, 255, 0.5) 50%);
+  margin: 0; 
+  height: 100vh;
+}
+
 .logo-container {
   display: inline-block;
   text-align: center;

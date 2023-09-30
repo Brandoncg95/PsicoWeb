@@ -19,7 +19,7 @@ const Profile = () => {
             <a href="https://react.dev" target="blank">
                 <img src={Psicologo} className="logo Registro" alt="Registro logo" />
             </a>
-            <button className="logo-button" onClick={() => window.location.href='https://react.dev'}>Iniciar Sesión</button>
+            <button className="logo-button" onClick={() => window.location.href='https://react.dev'}>Registrate</button>
             </div>
         </div>
         <div className="icon-item">
