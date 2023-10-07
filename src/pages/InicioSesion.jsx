@@ -1,4 +1,3 @@
-import './App.css'
 import registrateLogo from './assets/Registrate.png'
 import inicioLogo from './assets/Inicio_Sesion.png'
 

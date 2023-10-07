@@ -1,6 +1,6 @@
-import './App.css'
 import Psicologo from './assets/Psicologo.png'
 import inicioLogo from './assets/Inicio_Sesion.png'
+
 
 const Profile = () => {
     return (
